@@ -24,7 +24,8 @@ This project is an interactive Sales Dashboard built using Microsoft Excel. It p
 - Conditional Formatting
 
 ## Dashboard Preview
-(Add Dashboard Screenshot Here)
+<img width="1616" height="730" alt="image" src="https://github.com/user-attachments/assets/9d16b350-980b-4b00-95e8-c11500e6b2c0" />
+
 
 ## Skills Demonstrated
 - Data Cleaning
